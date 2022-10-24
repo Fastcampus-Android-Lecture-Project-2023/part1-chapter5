@@ -1,5 +1,12 @@
 # part1-chapter5
 계산기 앱
++, - 연산 및 숫자 포맷팅
+
+<img src="https://user-images.githubusercontent.com/24618293/197540238-15e0b24e-dc42-4538-b846-839f898c890f.gif" width="300">
+
+다크 테마 대응
+
+<img src="https://user-images.githubusercontent.com/24618293/197540941-3a30d49a-7c6d-4385-a82d-e5f65643850b.gif" width="300">
 
 # 개요
 
